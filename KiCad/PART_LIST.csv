@@ -1,0 +1,20 @@
+Id;Designator;Package;Quantity;Designation;
+1;C2;C_0603;1;220p;
+2;C3,C4;C_0603;2;100n;
+3;C6;C_0603;1;2u;
+4;D1;D_SMA;1;ss14;
+5;L1;Inductor_Wurth_HCI-5040;1;330u;
+6;Q1,Q2,Q3,Q4;TO-252-2;4;IRLR2905;
+7;R1,R2,R3,R4,R8;R_0603;5;4k7;
+8;R5;R_0603;1;1R5;
+9;R6;R_0603;1;3k6;
+10;R7;R_0603;1;5k6;
+11;R9,R10,R11,R12;R_0603;4;10k;
+12;SW1;SW_Tactile_SPST_Angled_PTS645Vx39-2LFS;1;Res;
+13;U1;SO-8_5.3x6.2mm_Pitch1.27mm;1;MC34063;
+14;U2;Esp-12E;1;ESP-12E;
+15;C1;CP_Radial_D6.3mm_P2.50mm;1;100u;Low ESR 16 V minimum
+16;C5;CP_Tantalum_Case-B_EIA-3528-21_Hand;1;100u;
+17;P1,P4;TerminalBlock_bornier-2_P5.08mm;2;out1;
+18;P2;TerminalBlock_bornier-2_P5.08mm;1;Out+;
+19;P3;TerminalBlock_bornier-2_P5.08mm;1;PWR;
